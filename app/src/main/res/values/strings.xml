@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Elegant Mail</string>
+
+    //Messages
+    <string name="message_sent_successfully">Seu correio foi enviado com sucesso</string>
+    <string name="surprise_your_love">Surpreenda seu amor</string>
+    <string name="send_message_and_gifts">Envie mensagens e presentes incríveis</string>
+    <string name="from">De: Admirador Secreto</string>
+    <string name="to">Para: Você</string>
+
+    //Titles
+    <string name="would_y_like_indentify_yourself">Você gostaria de se identificar?</string>
+    <string name="email">Email</string>
+    <string name="surprise">Suprieenda</string>
+
+    //Hint
+    <string name="hint_enter_with_message">Solte o verbo para seu/sua amado(a)</string>
+    <string name="hint_enter_with_your_name">Digite seu nome ou apelido </string>
+    <string name="choice_an_meal">Escolha uma refeição abaixo</string>
+
+    //Buttons
+    <string name="button_send_mail">ENVIAR CORREIO</string>
+    <string name="button_start">COMEÇAR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
